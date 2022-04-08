@@ -19,7 +19,7 @@ Hey! Welcome to my github!! Please have a look around. Most of the repos are jus
 
 **[remingtondavids.com](https://www.remingtondavids.com)**
 
-Hey! My name is Remington, I'm a software engineer. I like tinkering with things, gaming, learning new stuff, reading, movies, TV, blah, blah, blah. 🥰
+Hey! My name is Remington, I'm a computer/software engineer. I like tinkering with things, gaming, learning new stuff, reading, movies, TV, blah, blah, blah. 🥰
 
 
 This is my dog Sasha; she was my everything and i miss her so much. 💔 She was my best friend for 12 years and was by my side through the best and worst times of my life. 💕 
