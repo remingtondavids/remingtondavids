@@ -1,4 +1,4 @@
-# My GitHub
+# Hello ! 👋
 
 Hey! Welcome to my github!! Please have a look around. Most of the repos are just me practicing random youtube tutorials. I'm actually practicing with markdown as I write this. 😅 Anyway, thanks for stopping by!
 
@@ -13,18 +13,18 @@ Hey! Welcome to my github!! Please have a look around. Most of the repos are jus
 
 ---
 
-> " You miss **100%** of the shots you don't take. - Wayne Gretzky" - Michael Scott
+> "You miss **100%** of the shots you don't take. - Wayne Gretzky" - Michael Scott
  
 ## About Me
 
 **[remingtondavids.com](https://www.remingtondavids.com)**
 
-Hey! My name is Remington, I'm a computer/software engineer. I like tinkering with things, gaming, learning new stuff, reading, movies, TV, blah, blah, blah. 🥰
+Hey! My name is Remington, I'm an entry level software engineer at General Motors in the GPD TRACK program. I like tinkering with things, learning new stuff, reading, movies, baseball, TV, video games, board games, card games, tabletop games, you name it!
 
 
-This is my dog Sasha; she was my everything and i miss her so much. 💔 She was my best friend for 12 years and was by my side through the best and worst times of my life. 💕 
 
-![Sasha](./IMG_0534.jpg)
+
+
 
 
 
@@ -40,34 +40,7 @@ some text <br> more text
 
 
 
-|Light Color|Next Color|
-|:-|:-|
-|Green|Yellow|
-|Yellow|Red|
-|Red|Green|
-
-<br>
-<br>
-<br>
-<br>
+<img src="IMG_0534.jpg" alt="Sasha" width="300"/>
 
 
-<details>
-<summary>Section Header</summary>
-
-Section body text.
-
-</details>
-
-
-
-
-
-## Foot notes 🦶
-
-Happy Trees are Happy [^1]
-
-
-## Footer 🦶🦶
-
-[^1]: By bob ross
+This is my dog Sasha; I miss her very much. 💔
